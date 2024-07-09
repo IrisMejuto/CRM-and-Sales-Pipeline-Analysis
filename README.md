@@ -21,7 +21,7 @@ The dataset is made up of 1 file, you can download:
 ## 🖇️ Model
 The data modeling stage involved creating a relational data model that reflects the relationships between Leads, Agents, Countries, Industries, and Sales Stages.
 
-![image]()
+![image](https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis/blob/main/Images/Model.png)
 
 ## ❓ Key questions the project answers
 * ✅ Who are the top-performing sales agents?
