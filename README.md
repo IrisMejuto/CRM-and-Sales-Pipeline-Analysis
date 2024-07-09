@@ -16,7 +16,7 @@ Utilizing Power BI's robust capabilities, I embarked on cleaning, modeling, expl
 ## 🗃️ Dataset
 The dataset is made up of 1 file, you can download:
 
-[Files]()
+[Files](https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis/blob/main/Dataset/CRM%20and%20Sales%20Pipelines_C17_English.xlsx)
 
 ## 🖇️ Model
 The data modeling stage involved creating a relational data model that reflects the relationships between Leads, Agents, Countries, Industries, and Sales Stages.
