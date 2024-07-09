@@ -2,7 +2,7 @@
 This Power BI project provides a comprehensive analysis of CRM and sales pipeline data, focusing on various aspects such as sales performance, lead conversion, and industry trends. #PowerBI
 
 <div align="center">
-<img src="" alt="Dashboard" width="800" height="500">
+<img src="https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis/blob/main/Images/Cover%20CRM%20Pipeline.jpg" alt="Dashboard" width="800" height="500">
 </div>
 
 ## 📊 Dashboard
