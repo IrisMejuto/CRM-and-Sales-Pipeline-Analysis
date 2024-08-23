@@ -1,5 +1,5 @@
 # CRM-and-Sales-Pipeline-Analysis
-This Power BI project provides a comprehensive analysis of CRM and sales pipeline data, focusing on various aspects such as sales performance, lead conversion, and industry trends. #PowerBI
+This Power BI project was selected as [Winner](https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis/blob/main/FP20%20Certification.pdf) of the Challenge 17 FP20 Analytics. Provides a comprehensive analysis of CRM and sales pipeline data, focusing on various aspects such as sales performance, lead conversion, and industry trends. #PowerBI
 
 <div align="center">
 <img src="https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis/blob/main/Images/Cover%20CRM%20Pipeline.jpg" alt="Dashboard" width="800" height="500">
