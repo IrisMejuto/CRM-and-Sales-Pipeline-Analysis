@@ -9,7 +9,7 @@ This Power BI project was selected as [Winner of the Challenge 17 FP20 Analytics
 You can access the interactive dashboard made in Power BI at the following link 👉🏼 [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjUwODA5NzItYzY5OS00NzY5LTk2OGUtZDZiMjk2Y2I2NjYyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ## 🗃️ Download report
-You can download the report in a pbix file [🗃️Report Power BI](https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis/blob/main/PowerBI%20File/CRM%20and%20Sales%20Pipelines.pbix)
+You can download the report in a pbix file [🗃️Report Power BI](https://github.com/IrisMejuto/CRM-and-Sales-Pipeline-Analysis/blob/main/CRM%20and%20Sales%20Pipelines.pbix)
 
 ## 🪟 Overview
 In this project, conducted with Power BI, I focus on analyzing CRM and sales pipeline data. The report includes detailed visualizations that provide insights into sales performance, lead conversion rates, and trends across various dimensions.
